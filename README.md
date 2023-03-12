@@ -5,7 +5,7 @@
 3. The Data Visualization
 
 
-First, I learnt how to clean a dataset (No-Show Appointment), In this project I learnt how to answer questions using information of different patients and how to improve patients attendance.
+First, I learnt how to clean a dataset (No-Show Appointment), In this project I learnt how to answer questions using information of different patients on how to improve patients attendance.
 
 
 Secondly, I learnt how to wrangle data from a Twitter account using API (WeRateDogs), I learnt how to request for a DEVELOPER API, learnt about json files, and draw insights from a twitter profile. I also learnt how to write an informative report from the wrangled dataset to give the readers a clear description of my findings.
