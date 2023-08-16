@@ -7,7 +7,7 @@
 Prosper is a peer-to-peer lending platform funded by Investors. This data set contains 113,937 rows with 81 columns on each loan, including loan amount, borrower rate, current loan status, borrower income, borrower employment status, borrower credit history, and the latest payment information. 
 
 First, The Data Cleaning step:
-I checked for the datatypes of each attributes relevant to my analysis and i changed the datatypes to the appropriate datatypes. I also splitted the Date column to 3 consecutive columns so as to get the year insight alone. I also dropped all irrelevant columns to simplify my analysis.
+I checked for the datatypes of each attributes relevant to my analysis and changed the datatypes to appropriate datatypes. I also splitted the Date column to 3 consecutive columns so as to get the year insight alone. I also dropped all irrelevant columns to simplify my analysis.
 
 Secondly, The Data Exploration step:
 I explored the dataset using the 'Question-Visualization-Observations' procedure, the exploration was first done on individual variables, followed by comparing the effect of two variables each other and lastly the effect of 3 variables. 
@@ -27,3 +27,5 @@ I also observed that Low income earners with occupations like students and waite
 ## Key Insights for Presentation
 
 The main aim of the analysis is to determine the chances that a Borrower has to get a Loan with favorable loan conditions. Attributes like EmploymentStatus, Occupation, LoanOriginalAmount, IncomeRange, BorrowerRate, Debt-to-Income Ratio and LoanStatus helped to give me the appropriate insights to my analysis.  
+
+![Prosper Loan Dashboard](https://github.com/IbehDera/ALX_UDACITY_PROJECTS/assets/125457751/3c73396d-ca27-4c08-aa78-14d51ab99f76)
