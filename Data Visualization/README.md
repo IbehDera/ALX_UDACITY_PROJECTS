@@ -1,5 +1,4 @@
 ![Uploading Prosper Loan Dashboard.jpg…]()
-![Uploading Prosper Loan Dashboard.jpg…]()
 # Prosper Loan Data Exploration
 ## by Ibeh Chidera
 
