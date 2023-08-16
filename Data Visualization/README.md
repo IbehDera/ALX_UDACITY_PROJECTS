@@ -1,4 +1,4 @@
-![Prosper Loan Dashboard](https://github.com/IbehDera/ALX_UDACITY_PROJECTS/assets/125457751/1a253a93-1c16-4924-ab73-b7153197ab10)
+![Prosper Loan Dashboard](https://github.com/IbehDera/ALX_UDACITY_PROJECTS/assets/125457751/b8ab3b7f-bf06-4096-b138-416c97bf3316)
 # Prosper Loan Data Exploration
 ## by Ibeh Chidera
 
