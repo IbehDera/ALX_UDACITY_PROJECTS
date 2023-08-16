@@ -1,3 +1,5 @@
+![Uploading Prosper Loan Dashboard.jpg…]()
+![Uploading Prosper Loan Dashboard.jpg…]()
 # Prosper Loan Data Exploration
 ## by Ibeh Chidera
 
@@ -26,4 +28,3 @@ I also observed that Low income earners with occupations like students and waite
 ## Key Insights for Presentation
 
 The main aim of the analysis is to determine the chances that a Borrower has to get a Loan with favorable loan conditions. Attributes like EmploymentStatus, Occupation, LoanOriginalAmount, IncomeRange, BorrowerRate, Debt-to-Income Ratio and LoanStatus helped to give me the appropriate insights to my analysis.  
-![Uploading Prosper Loan Dashboard.jpg…]()
