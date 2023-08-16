@@ -23,9 +23,7 @@ So to find out what whether Employment Status and Income Range would affect the 
 
 I also observed that Low income earners with occupations like students and waiters/waitresses get low loan Amount, with High Borrower rate.
 
-
 ## Key Insights for Presentation
 
 The main aim of the analysis is to determine the chances that a Borrower has to get a Loan with favorable loan conditions. Attributes like EmploymentStatus, Occupation, LoanOriginalAmount, IncomeRange, BorrowerRate, Debt-to-Income Ratio and LoanStatus helped to give me the appropriate insights to my analysis.  
-
-![Prosper Loan Dashboard](https://github.com/IbehDera/ALX_UDACITY_PROJECTS/assets/125457751/3c73396d-ca27-4c08-aa78-14d51ab99f76)
+![Uploading Prosper Loan Dashboard.jpg…]()
